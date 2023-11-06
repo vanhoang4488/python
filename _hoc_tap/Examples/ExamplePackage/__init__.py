@@ -1,0 +1,1 @@
+print("Duoc in tu file _init_.py")
